@@ -1,2 +1,2 @@
 # responsiveimg
-This is [an example](http://example.com/ "Title") inline link.
+ [Here](http://pranayaryal.github.io/responsiveimg) is the website.
